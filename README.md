@@ -10,8 +10,7 @@
 | Lohith K Saradhi  | Model Development     |
 ***
 # Demo Video
-[![Watch the video](https://img.youtube.com/vi/T-Fb1D3oq7yio/maxresdefault.jpg)](https://youtu.be/Fb1D3oq7yio)
-
+[![Watch the video](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/resources/IMG-20240105-WA0007.jpg)](https://youtu.be/Fb1D3oq7yio)
 
 ***
 # Project Setup
