@@ -1,0 +1,17 @@
+package com.example.myapplication
+
+// Store the values of the user (i.e, who all he can talk to)
+
+class User {
+    var name: String? = null
+    var email: String? = null
+    var uid: String? = null // Each user gets a uid in the database
+
+    constructor(){}
+
+    constructor(name: String?, email: String?, uid: String?){
+        this.name = name
+        this.email = email
+        this.uid = uid
+    }
+}
