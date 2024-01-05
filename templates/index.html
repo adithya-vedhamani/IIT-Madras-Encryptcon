@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+  <meta charset="UTF-8">
+  <title>ML API</title>
+  <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Arimo' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Hind:300' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  
+</head>
+
+<body>
+ <div class="login">
+	<h1>Fraud Transaction Analysis</h1>
+    {{ prediction_text }}
+    <form action="{{ url_for('predict')}}"method="post">
+    	<input type="text" name="cc_num" placeholder="cc_num" required="required" />
+        <input type="text" name="merchant" placeholder="merchant" required="required" />
+		    <input type="text" name="amt" placeholder="amt" required="required" />
+        <input type="text" name="sender_ip" placeholder="sender_ip" required="required" />
+        <input type="text" name="merch_ip" placeholder="merch_ip" required="required" />
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+   <br>
+   <br>
+ 
+
+ </div>
+
+
+</body>
+</html>
