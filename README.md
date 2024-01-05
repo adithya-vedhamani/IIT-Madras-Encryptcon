@@ -18,6 +18,16 @@ Created: January 5, 2024 3:49 PM
 Status: Open
 Updated: January 5, 2024 4:56 PM
 
+## Setup
+
+Clone the repository (if the name is changed, please change accordingly in the [krypton.sh](http://krypton.sh) file)
+
+```jsx
+chmod a+x krypton.sh
+
+./krypton.sh
+```
+
 ### 
 
 # Project Overview
@@ -47,16 +57,6 @@ We propose a novel behavioral analytics system as a SAAS, exploiting ML algorith
 - Flask
 - Fast API
 - Bootstrap
-
-### Setup
-
-Clone the repository (if the name is changed, please change accordingly in the [krypton.sh](http://krypton.sh) file)
-
-```jsx
-chmod +x krypton.sh
-
-./krypton.sh
-```
 
 ## UI and App
 
