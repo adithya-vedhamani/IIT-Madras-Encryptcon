@@ -10,7 +10,8 @@
 | Lohith K Saradhi  | Model Development     |
 ***
 # Demo Video
-[Demo Video](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/Demo%20-%20Krypton.mp4)
+https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/Demo%20-%20Krypton.mp4
+
 ***
 # Project Setup
 - Installations :  **Give bash Files**
