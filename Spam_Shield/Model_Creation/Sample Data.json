@@ -1,0 +1,74 @@
+{
+  "people": [
+    {
+      "name": "John Doe",
+      "phone": "+1-202-555-0167",
+      "latitude": 38.8951,
+      "longitude": -77.0364,
+      "spam_message": "Congratulations! You have been selected to win a free vacation to Hawaii. Click on the link to claim your prize now!"
+    },
+    {
+      "name": "Jane Smith",
+      "phone": "+1-202-555-0123",
+      "latitude": 39.2904,
+      "longitude": -76.6122,
+      "spam_message": "Attention! Your account has been suspended due to suspicious activity. Click on the link to verify your identity and reactivate your account."
+    },
+    {
+      "name": "Mike Johnson",
+      "phone": "+1-202-555-0178",
+      "latitude": 38.9784,
+      "longitude": -76.4922,
+      "spam_message": "You have been selected for a limited time offer. Get 50% off on all purchases by using the code LUCKY50 at checkout!"
+    },
+    {
+      "name": "Emily Davis",
+      "phone": "+1-202-555-0146",
+      "latitude": 38.8892,
+      "longitude": -77.0490,
+      "spam_message": "Hurry! Only a few spots left for our exclusive weight loss program. Click on the link to sign up now and lose 10 pounds in just 2 weeks!"
+    },
+    {
+      "name": "Ryan Lee",
+      "phone": "+1-202-555-0169",
+      "latitude": 38.8867,
+      "longitude": -76.9997,
+      "spam_message": "Congratulations! You have been selected for a free trial of our premium subscription service. Click on the link to claim your trial now!"
+    },
+    {
+      "name": "Sarah Kim",
+      "phone": "+1-202-555-0135",
+      "latitude": 38.9072,
+      "longitude": -77.0369,
+      "spam_message": "Don't miss out on this amazing deal. Get 25% off on all products by using the code SPRING25 at checkout!"
+    },
+    {
+      "name": "David Brown",
+      "phone": "+1-202-555-0190",
+      "latitude": 39.0438,
+      "longitude": -76.7909,
+      "spam_message": "Limited time offer! Buy one, get one free on all items. Click on the link to shop now and save big!"
+    },
+    {
+      "name": "Jessica Chen",
+      "phone": "+1-202-555-0148",
+      "latitude": 38.8836,
+      "longitude": -77.0166,
+      "spam_message": "You have been selected for a special discount. Use the code SPECIAL10 at checkout to get 10% off on your next purchase!"
+    },
+    {
+      "name": "Kevin Lee",
+      "phone": "+1-202-555-0129",
+      "latitude": 38.8893,
+      "longitude": -77.0502,
+      "spam_message": "Get ready to be amazed! Our new product is here and it's a game-changer. Click on the link to learn more and place your order now!"
+    },
+    {
+      "name": "Amy Lee",
+      "phone": "+1-202-555-0182",
+      "latitude": 38.9080,
+      "longitude": -77.0369,
+      "spam_message": "Congratulations! You have been selected to participate in a survey and win a gift card worth $50. Click on the link to take the survey now!"
+    }
+  ]
+}
