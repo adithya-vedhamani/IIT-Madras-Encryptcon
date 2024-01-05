@@ -1,4 +1,18 @@
-# Documentation
+# IIT Madras - Encryptcon Hackathon
+# PS3 - Behavioral Analytics for Detecting Anomalies in Financial Transactions
+***
+## Team Members
+| Name              | Role                  |
+|-------------------|-----------------------|
+| Vishwa Kumaresh   | Team Lead, Android Dev |
+| Adithya Vedhamani | Software Developer    |
+| Achintya L        | Backend Design and API |
+| Lohith K Saradhi  | Model Development     |
+***
+# Project Setup
+- Installations :  **Give bash Files**
+- Configuration Files or commands
+
 
 Created: January 5, 2024 3:49 PM
 Status: Open
@@ -67,58 +81,7 @@ The model we chose for our approach is the ever-resilient Random Forest. Through
 ### Deployment
 
 The end deliverable is packaged as a React-Flask web app and a Fast API that allows the users to check if a given transaction is fraudulent. The location data is directly taken from the IP information given. The distance metric is calculated after referring to the last known location and time stamp.
-=======
-# TO DO
-- [ ] Add pictures, links and other things
-- [ ] Take techstack form your github page
-- [ ] Give links and phone number to contact
 
 
-# IIT Madras - Encryptcon Hackathon
-# PS3 - Behavioral Analytics for Detecting Anomalies in Financial Transactions
-***
-## Team Members
-| Name              | Role                  |
-|-------------------|-----------------------|
-| Vishwa Kumaresh   | Team Lead, Android Dev |
-| Adithya Vedhamani | Software Developer    |
-| Achintya L        | Backend Design and API |
-| Lohith K Saradhi  | Model Development     |
-***
-# Project Setup
-- Installations :  **Give bash Files**
-- Configuration Files or commands
 
-    ``` Test Code ```
-- How to start and run the code
-- Troubleshooitng tips
-## Dependencies
-***
-# Project Overview
-Explain problem and your solution to address it
-## Functionalities
-- Test
 
-## Tech Stack
-
-***
-# UI and App (Pre, During and Post Attack)
-- Screenshots and Videos
-- User Guide
-- Explain Design decision
-- Consider Accessibility
-
-***
-# Data and Model
-- Explain Data and Model (Sources used for training, testing and deployent)
-- Data Preprocessing
-- Data Usage
-- Data Security (For Sensitive Data)
-
-***
-# Conclusion
-- Presentation slides : Slide deck sumarizing your projects and findings (MODEL INTERPRETATIONS)
-- Future Work : Potential Improvements
-***
-# License
->>>>>>> 95e423433c2b83573388f26e4d35b8098dfe5445
