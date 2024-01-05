@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Documentation
 
 Created: January 5, 2024 3:49 PM
