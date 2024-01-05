@@ -60,7 +60,7 @@ chmod +x krypton.sh
 
 ## UI and App
 
-![Image1]("https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/tree/main/resources/WhatsApp Image 2024-01-05 at 16.15.17_8803c41a.jpg")
+![Image1](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/resources/IMG-20240105-WA0007.jpg)
 
 ![Image2]("https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/tree/main/resources/WhatsApp Image 2024-01-05 at 16.15.27_12e65fb2.jpg")
 
