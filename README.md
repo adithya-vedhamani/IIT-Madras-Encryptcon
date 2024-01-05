@@ -62,7 +62,7 @@ chmod +x krypton.sh
 
 ![Image1](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/resources/IMG-20240105-WA0007.jpg)
 
-![Image2]("https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/tree/main/resources/WhatsApp Image 2024-01-05 at 16.15.27_12e65fb2.jpg")
+![Image2](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/resources/IMG-20240105-WA0016.jpg)
 
 ## Data and Model
 
