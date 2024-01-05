@@ -60,9 +60,9 @@ chmod +x krypton.sh
 
 ## UI and App
 
-![WhatsApp Image 2024-01-05 at 16.15.17_8803c41a.jpg](Documentation%209d9d574cefb5468883bd5702fb40d855/WhatsApp_Image_2024-01-05_at_16.15.17_8803c41a.jpg)
+![./resources/WhatsApp Image 2024-01-05 at 16.15.17_8803c41a.jpg](Documentation%209d9d574cefb5468883bd5702fb40d855/WhatsApp_Image_2024-01-05_at_16.15.17_8803c41a.jpg)
 
-![WhatsApp Image 2024-01-05 at 16.15.27_12e65fb2.jpg](Documentation%209d9d574cefb5468883bd5702fb40d855/WhatsApp_Image_2024-01-05_at_16.15.27_12e65fb2.jpg)
+![./resources/WhatsApp Image 2024-01-05 at 16.15.27_12e65fb2.jpg](Documentation%209d9d574cefb5468883bd5702fb40d855/WhatsApp_Image_2024-01-05_at_16.15.27_12e65fb2.jpg)
 
 ## Data and Model
 
