@@ -12,6 +12,8 @@
 # Demo Video
 [![Watch the video](https://github.com/Vishwa-docs/IIT-Madras-Encryptcon/blob/main/resources/IMG-20240105-WA0007.jpg)](https://youtu.be/Fb1D3oq7yio)
 
+# [Link To Presentation](https://docs.google.com/presentation/d/1e_ffHKeylYKw8j2xa-9z0zeDPXcP3wZu/edit?usp=drive_link&ouid=106556702476183896177&rtpof=true&sd=true)
+
 ***
 # Project Setup
 - Installations :  **Give bash Files**
