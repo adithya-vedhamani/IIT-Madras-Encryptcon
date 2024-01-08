@@ -5,7 +5,7 @@
 | Name              | Role                  |
 |-------------------|-----------------------|
 | Vishwa Kumaresh   | Team Lead, Android Dev |
-| Adithya Vedhamani | Software Developer    |
+| Adithya Vedhamani | Software Dev    |
 | Achintya L        | Backend Design and API |
 | Lohith K Saradhi  | Model Development     |
 ***
